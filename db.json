@@ -1,0 +1,159 @@
+{
+  "Big Cats":[
+  {
+    "Species": "Panthera leo",
+    "Name": "Lion",
+    "Size": "1.2 meters at shoulder, 150-250 kg",
+    "Location": "Africa, Gir Forest (India)",
+    "img": "assets/bigcat/lion.jpg"
+  },
+  {
+    "Species": "Panthera tigris",
+    "Name": "Tiger",
+    "Size": "Up to 1.1 meters at shoulder, 100-300 kg",
+    "Location": "Asia (India, Russia, China, Indonesia)",
+    "img": "assets/bigcat/tiger.jpg"
+  },
+  {
+    "Species": "Panthera onca",
+    "Name": "Jaguar",
+    "Size": "0.7 meters at shoulder, 56-96 kg",
+    "Location": "South and Central America",
+    "img": "assets/bigcat/jaguar.jpg"
+  },
+  {
+    "Species": "Panthera pardus",
+    "Name": "Leopard",
+    "Size": "0.6 meters at shoulder, 30-90 kg",
+    "Location": "Africa, Asia",
+    "img": "assets/bigcat/leopard.jpg"
+  },
+  {
+    "Species": "Acinonyx jubatus",
+    "Name": "Cheetah",
+    "Size": "0.8 meters at shoulder, 21-72 kg",
+    "Location": "Africa, Iran",
+    "img": "assets/bigcat/cheetah.webp"
+  },
+  {
+    "Species": "Panthera uncia",
+    "Name": "Snow Leopard",
+    "Size": "0.6 meters at shoulder, 22-55 kg",
+    "Location": "Central and South Asia (mountains)",
+    "img": "assets/bigcat/snow_leopard.webp"
+  },
+  {
+    "Species": "Neofelis nebulosa",
+    "Name": "Clouded Leopard",
+    "Size": "0.5 meters at shoulder, 11-23 kg",
+    "Location": "Southeast Asia",
+    "img": "assets/bigcat/clouded_leopard.jpg"
+  }
+],
+
+"Dogs":[
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Labrador Retriever",
+    "Size": "55-62 cm at shoulder, 25-36 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Labrador_Retrivar.jpg"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "German Shepherd",
+    "Size": "60-65 cm at shoulder, 22-40 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/German_Shepherd.webp"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Golden Retriever",
+    "Size": "51-61 cm at shoulder, 25-34 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Golden_Retriver.webp"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Bulldog",
+    "Size": "31-40 cm at shoulder, 18-25 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Bulldog.avif"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Poodle",
+    "Size": "24-60 cm at shoulder, 2-32 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/poodle.avif"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Siberian Husky",
+    "Size": "50-60 cm at shoulder, 16-27 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Siberian_Husky.webp"
+  },
+  {
+    "Species": "Canis lupus familiaris",
+    "Name": "Beagle",
+    "Size": "33-41 cm at shoulder, 9-14 kg",
+    "Location": "Worldwide",
+    "img": "assets/dogs/beagle.jpg"
+  }
+],
+
+"Big Fish":[
+  {
+    "Species": "Rhincodon typus",
+    "Name": "Whale Shark",
+    "Size": "Up to 18 meters, 12,000-21,000 kg",
+    "Location": "Tropical oceans worldwide",
+    "img": "assets/bigfish/whale_shark.jpg"
+  },
+  {
+    "Species": "Carcharodon carcharias",
+    "Name": "Great White Shark",
+    "Size": "Up to 6.4 meters, 1,100-2,200 kg",
+    "Location": "Coastal waters worldwide",
+    "img": "assets/bigfish/Great_White_Shark.webp"
+  },
+  {
+    "Species": "Mola mola",
+    "Name": "Ocean Sunfish",
+    "Size": "Up to 3.3 meters, 1,000-2,300 kg",
+    "Location": "Tropical and temperate oceans",
+    "img": "assets/bigfish/Ocean_Sunfish.jpg"
+  },
+  {
+    "Species": "Arapaima gigas",
+    "Name": "Arapaima",
+    "Size": "Up to 4.5 meters, 200 kg",
+    "Location": "Amazon River basin, South America",
+    "img": "assets/bigfish/Arapaima.jpg"
+  },
+  {
+    "Species": "Megalops atlanticus",
+    "Name": "Atlantic Tarpon",
+    "Size": "Up to 2.5 meters, 160 kg",
+    "Location": "Atlantic Ocean, Gulf of Mexico, Caribbean",
+    "img": "assets/bigfish/Atlantic_Tarpon.webp"
+  },
+  {
+    "Species": "Pangasianodon gigas",
+    "Name": "Mekong Giant Catfish",
+    "Size": "Up to 3 meters, 350 kg",
+    "Location": "Mekong River, Southeast Asia",
+    "img": "assets/bigfish/Mekong_Giant_Catfish.webp"
+  },
+  {
+    "Species": "Acipenser transmontanus",
+    "Name": "White Sturgeon",
+    "Size": "Up to 6.1 meters, 630 kg",
+    "Location": "North America (Pacific Coast)",
+    "img": "assets/bigfish/white_sturgeon.jpg"
+  }
+]
+}
+
+
